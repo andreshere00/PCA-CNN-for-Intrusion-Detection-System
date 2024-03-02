@@ -1,0 +1,1 @@
+{'filters': 128, 'kernel_size': 8, 'pool_size': 8, 'dense_units': 100, 'tuner/epochs': 40, 'tuner/initial_epoch': 14, 'tuner/bracket': 1, 'tuner/round': 1, 'tuner/trial_id': '0081'}
