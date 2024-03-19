@@ -1,4 +1,4 @@
-# PCA-CNN-for-Intrusion-Detection-System
+# Principal Component Analysis (PCA) + Convolutional Neural Network (CNN) for Intrusion Detection System (IDS)
 PCA-CNN-based Intrusion Detection System for the subject "Neural Networks and Statistical Learning" for the Master's Degree in Statistical &amp; Computational Information Processing (Universidad Complutense de Madrid - Universidad Politécnica de Madrid)
 
 In the data era, security and privacy have become relevant concerns due to the increasing sophistication and increase in cyberattacks. In this context, one of the elements most affected by this type of attacks are IoT (Internet of Things) devices, for which numerous ways to secure them have been investigated. Thus, this work aims to provide a solution to the problem of intrusion detection in IoT devices.
